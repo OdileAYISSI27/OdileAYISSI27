@@ -8,7 +8,7 @@ Pendant mon stage académique à la Direction des Systèmes d'Information d'**Af
 Bank**, j'ai conçu et développé quatre applications internes de la banque, de la modélisation
 métier à la mise en production.
 
-**Portfolio complet :** *(lien à ajouter une fois hébergé)*
+**Portfolio complet :** [odileayissi27.github.io](https://odileayissi27.github.io)
 
 ---
 
